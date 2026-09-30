@@ -1,0 +1,5 @@
+brincouComFogo = input("Você brincou com fogo?")
+if brincouComFogo == "sim":
+	print("Se queimou :( ")
+else: 
+	print("Não se queimou :D ") 
